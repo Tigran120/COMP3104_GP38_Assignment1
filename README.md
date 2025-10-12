@@ -4,13 +4,13 @@
 - Leader: [Tigran] ([101498001])
 - Member 2: [Karim] ([101488793])
 - Member 3: [Arthur] ([Student ID]) 
-- Member 4: Name] ([Student ID]) 
+- Member 4: [Dastan] ([Student ID]) 
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
 
 ## Setup Instructions
-1. Clone the repository: git clone https://github.com/yourusername/COMP3104_Group#_Assignment.git
+1. Clone the repository: git clone https://github.com/Tigran120/COMP3104_GP38_Assignment1.git
 2. Switch to your branch using git checkout STUDENTID-Name
 3. Install any dependencies as listed
 
