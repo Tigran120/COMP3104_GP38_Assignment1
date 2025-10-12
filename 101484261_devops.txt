@@ -1,1 +1,2 @@
-COMP3104 teaches DevOps practices such as CI/CD and collaborative development
+COMP3104 teaches DevOps practices such as CI/CD and collaborative development.
+COMP3104 is a DevOps course offered at George Brown College that teaches modern software development and deployment practices.
