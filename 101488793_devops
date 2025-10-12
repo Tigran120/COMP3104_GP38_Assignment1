@@ -1,0 +1,28 @@
+George Brown College – COMP 3104: DevOps
+
+Course Context:
+COMP 3104 is part of the Computer Programming & Analysis (T177) program at George Brown College, Toronto. It is typically offered in Semester 5 of the program and focuses on DevOps principles and practices that bridge software development and IT operations.
+
+
+
+Course Overview:
+The COMP 3104 – DevOps course introduces students to modern development operations workflows and automation. It teaches how to integrate coding, testing, and deployment processes through continuous integration and delivery (CI/CD). Students learn about collaboration between developers, QA, and operations teams to ensure faster, more reliable software delivery.
+
+Key Topics Covered:
+• DevOps culture and principles
+• Version control and Git branching strategies
+• Continuous Integration / Continuous Deployment (CI/CD)
+• Automation of build, test, and deployment processes
+• Infrastructure as Code (IaC) tools (e.g., Terraform, Docker, Ansible)
+• Cloud-based environments and monitoring tools
+• Software delivery pipelines and feedback loops
+• Hands-on group projects simulating real-world DevOps workflows
+
+Assignments and Tools:
+Students work collaboratively on GitHub repositories to practice version control, merging, and conflict resolution. Projects typically involve setting up automation workflows and CI/CD pipelines to simulate professional DevOps environments.
+
+Campus & Program:
+George Brown College – Casa Loma Campus
+Centre for Arts, Design & Information Technology
+School of Computer Technology
+Program: Computer Programming & Analysis (T177)
