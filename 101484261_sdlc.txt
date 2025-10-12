@@ -1,1 +1,2 @@
-DevOps improves collaboration and automation in the software development life cycle
+DevOps improves collaboration and automation in the software development life cycle.
+DevOps is a crucial part of the Software Development Life Cycle (SDLC) that connects development and operations teams.
