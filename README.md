@@ -5,7 +5,7 @@
 - Leader: [Tigran] ([101498001])
 - Member 2: [Karim] ([101488793])
 - Member 3: [Artur] ([101503300])
-- Member 4: [Dastan] ([Student ID])
+- Member 4: [Dastan] ([101484261])
 
 ## Project Description
 
