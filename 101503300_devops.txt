@@ -11,3 +11,21 @@ Main Topics Covered:
 • Automated unit and integration testing, code quality checks, and coverage analysis
 • Monitoring and observability — metrics, logs, alerts, and dashboards
 • DevSecOps — managing secrets, security scanning, and dependency analysis
+
+Assessments Include:
+• Weekly labs to practice CI/CD and containerization concepts
+• A group project to build a complete automated deployment pipeline
+• Short quizzes and a final hands-on demonstration
+
+Learning Outcomes:
+By completing this course, I am able to:
+
+Use Git proficiently with structured and meaningful commits.
+
+Design and implement CI/CD pipelines for containerized applications.
+
+Apply Infrastructure as Code to create and manage cloud environments.
+
+Incorporate security and monitoring into DevOps workflows.
+
+Collaborate effectively using DevOps principles, tools, and culture.
