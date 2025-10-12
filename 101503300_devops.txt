@@ -1,0 +1,2 @@
+Course Overview:
+COMP 3104 explores the core principles and tools of DevOps, bridging software development and IT operations to improve the speed, quality, and reliability of software delivery.
