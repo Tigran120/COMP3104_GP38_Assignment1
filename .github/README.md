@@ -1,10 +1,10 @@
 # COMP3104_Group#_Assignment
 
 ## Group Members
-- Leader: Your Name] ([Your Student ID]) - [GitHub
-- Member 2: Name] ([Student ID]) - [GitHub
-- Member 3: Name] ([Student ID]) - [GitHub
-- Member 4: Name] ([Student ID]) - [GitHub [if applicable]
+- Leader: [Tigran] ([101498001])
+- Member 2: Name] ([Student ID])
+- Member 3: Name] ([Student ID]) 
+- Member 4: Name] ([Student ID]) 
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
