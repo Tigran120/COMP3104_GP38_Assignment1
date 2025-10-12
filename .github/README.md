@@ -3,7 +3,7 @@
 ## Group Members
 - Leader: [Tigran] ([101498001])
 - Member 2: [Karim] ([101488793])
-- Member 3: Name] ([Student ID]) 
+- Member 3: [Arthur] ([Student ID]) 
 - Member 4: Name] ([Student ID]) 
 
 ## Project Description
