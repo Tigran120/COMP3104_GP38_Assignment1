@@ -1,0 +1,1 @@
+COMP3104 teaches DevOps practices such as CI/CD and collaborative development
