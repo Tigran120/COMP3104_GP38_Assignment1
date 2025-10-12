@@ -1,2 +1,13 @@
 Course Overview:
 COMP 3104 explores the core principles and tools of DevOps, bridging software development and IT operations to improve the speed, quality, and reliability of software delivery.
+
+Main Topics Covered:
+• Git essentials — repositories, branching strategies, and effective commit messages
+• Continuous Integration and Continuous Deployment (CI/CD) using GitHub Actions
+• Docker fundamentals — images, containers, registries, and Docker Compose
+• Kubernetes basics — pods, services, and deployment orchestration
+• Introduction to Infrastructure as Code (IaC) using tools like Terraform
+• Cloud services overview — AWS and Azure in pipeline automation
+• Automated unit and integration testing, code quality checks, and coverage analysis
+• Monitoring and observability — metrics, logs, alerts, and dashboards
+• DevSecOps — managing secrets, security scanning, and dependency analysis
